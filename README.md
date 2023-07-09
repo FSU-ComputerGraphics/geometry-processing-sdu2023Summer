@@ -18,7 +18,7 @@ This course requires you having a good programming skill in C++ and a good knowl
 
 ### Schedule and Course Notes 
 The schedule is tentative and will be adjusted along the way, the course materials will be added as the class proceeds.
-- Jul./10: [Introduction](https://github.com/FSU-ComputerGraphics/geometry-processing-sdu2023Summer/blob/main/01-Introduction.pdf)[Shape Representation](https://github.com/FSU-ComputerGraphics/geometry-processing-sdu2023Summer/blob/main/02-Shape%20Representation.pdf)
+- Jul./10: [Introduction](https://github.com/FSU-ComputerGraphics/geometry-processing-sdu2023Summer/blob/main/01-Introduction.pdf) | [Shape Representation](https://github.com/FSU-ComputerGraphics/geometry-processing-sdu2023Summer/blob/main/02-Shape%20Representation.pdf)
 - Jul./11: [Acquisition and Mesh][Reconstruction]
 - Jul./12: [Normal][Curves]
 - Jul./13: [Smoothing][Animation]
